@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "jgL9PVsYEw9PmHh0rcGa8iysL9nalQm9Tid+sB4kyKgseikZvH3uh0dgx9DyAdqWfhFtamjJT0U/aePrw36w4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cemil\\source\\repos\\ReceiptParser\\ReceiptParser\\ReceiptParser\\ReceiptParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cemil\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\cemil\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\cemil\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\cemil\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\cemil\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
